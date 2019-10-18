@@ -1,13 +1,13 @@
 export const robots = [
   {
     id: 1,
-    name: 'Leanne Graham',
+    name: 'Elsa soto',
     username: 'Bret',
     email: 'Sincere@april.biz'
   },
   {
     id: 2,
-    name: 'Ervin Howell',
+    name: 'Petinata Torres',
     username: 'Antonette',
     email: 'Shanna@melissa.tv'
   },
