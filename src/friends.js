@@ -1,4 +1,4 @@
-export const robots = [
+export const friends = [
   {
     id: 1,
     name: 'Elsa soto',
