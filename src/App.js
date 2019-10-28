@@ -21,7 +21,7 @@ class App extends React.Component{
 			friend.name.toLowerCase().includes(this.state.searchfield.toLowerCase()) );
 		return (
 	    	<div className="tc">
-	        	<h1>Chebere friends</h1>
+	        	<h1 className="MarioF f1">Chebere friends</h1>
 	        	<SearchBox searchChange={this.onSearchChange}/>
 	        	<CardList friends={filteredfriends}/>
 	    	</div>    
